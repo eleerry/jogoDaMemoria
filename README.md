@@ -1,4 +1,4 @@
-# jogo Da Memoria
+# jogo Da Memória
 
 Esse é um repositório aula de Javascript, na qual foi desenvolvido um jogo da memória com a temática de Super Mario! 
 ## Tecnologias:
